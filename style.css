@@ -1,0 +1,88 @@
+body {
+	margin: 0;
+}
+
+.backimage {
+	display: flex;
+	width: 100%;
+	height: 100vh;
+	background-image: url(https://static.wixstatic.com/media/46e86e_17965b22525742fda09823f7eb9f6b76~mv2_d_2500_1667_s_2.jpg/v1/fill/w_2500,h_1651,al_c,q_90/coral.jpg);
+	background-size: cover;
+	/*background-position: 0px -180px;*/
+}
+
+.content {
+	width: 100%;
+	height: 100vh;
+	overflow: scroll;
+}
+
+h1 {
+	color: #FFFFFF;
+	font-family: montserrat;
+	font-size: 62px;
+	text-align: center;
+	margin-bottom: 250px;
+	font-weight: 200;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-family: montserrat;
+	font-size: 50px;
+	text-align: center;
+	/*margin-bottom: 250px;*/
+	font-weight: 200;
+}
+
+p {
+	color: #FFFFFF;
+	font-family: montserrat;
+	font-size: 14px;
+	text-align: center;
+	font-weight: 200;
+}
+
+.logo {
+	border-radius: 50%;
+	width: 150px;
+	display: flex;
+	justify-content: space-center;
+	align-items: center;
+	margin: 200px auto 20px auto;
+}
+
+.flexbox {
+	width: 100%;
+	height: 400px;
+	display: flex;
+	justify-content: space-center;
+	align-items: center;
+}
+
+.how {
+	background-color: rgba(0, 0, 0, 0.6);
+	height: 735px;
+	padding-top: 50px;
+}
+
+.div1 {
+	width: 200px;
+	height: 200px;
+	margin: auto;`
+	border: 1px solid black;
+}
+
+.div2 {
+	width: 200px;
+	height: 200px;
+	margin: auto;`
+	border: 1px solid black;
+}
+
+.div3 {
+	width: 200px;
+	height: 200px;
+	margin: auto;`
+	border: 1px solid black;
+}
